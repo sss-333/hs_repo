@@ -1,4 +1,4 @@
-Tarih;brFiyat;fiyatEn;istihdam;issizlik;grAltin;usdKuru;konutKrFay;vadeliMevFay;yurticiUsdMevd;tufe;TGE;satisAd
+tarih;brFiyat;fiyatEn;istihdam;issizlik;grAltin;usdKuru;konutKrFay;vadeliMevFay;yurticiUsdMevd;tufe;TGE;satisAd
 2014-01;2464.10;58.20;42.80;10.50;89.62;2.22;11.30;9.15;138160.00;233.54;91.5;7644.00
 2014-02;2488.80;59.00;43.40;10.50;92.30;2.22;13.03;10.68;144653.00;234.54;89.2;7881.00
 2014-03;2519.10;60.10;45.20;9.40;95.12;2.22;13.51;11.24;150170.00;237.18;92.4;8235.00
@@ -96,4 +96,3 @@ Tarih;brFiyat;fiyatEn;istihdam;issizlik;grAltin;usdKuru;konutKrFay;vadeliMevFay;
 2021-11;9154.69;222.00;46.40;10.90;634.13;10.54;17.10;14.84;232076.70;604.84;70.8;8314.00
 2021-12;10094.04;237.80;46.00;11.30;817.61;13.55;17.31;15.61;237070.10;686.95;68.5;11698.00
 2022-01;11783.15;275.20;45.40;12.10;795.39;13.54;18.25;18.19;228162.10;763.23;72.7;3984.00
-
